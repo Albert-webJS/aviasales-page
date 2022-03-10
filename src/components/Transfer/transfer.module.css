@@ -1,0 +1,85 @@
+.transfer {
+  font-family: Open sans, sans-serif;
+  width: 100%;
+  max-width: 232px;
+  min-height: 227px;
+  box-shadow: 0px 2px 8px 0px #0000001a;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0 25px 0px;
+}
+.title {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0.5px;
+  color: #4a4a4a;
+  margin: 0 0 0 20px;
+  text-transform: uppercase;
+}
+.boxContainer {
+  height: 40px;
+  line-height: 40px;
+}
+.boxContainer:hover {
+  background: #f1fcff;
+  cursor: pointer;
+}
+.checkbox {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+.customCheckbox {
+  display: inline-flex;
+  align-items: center;
+  user-select: none;
+  position: relative;
+  margin-right: 50px;
+}
+.customCheckbox::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: -15px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #9abbce;
+  margin-left: 20px;
+}
+.customCheckboxActive::before {
+  content: "";
+  background: url("./assets/check.png") center center no-repeat;
+  color: tomato;
+}
+
+@media (max-width: 768px) {
+  .transfer {
+    max-width: 532px;
+    padding: 0 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .title {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+  .boxContainer {
+    width: 100%;
+    max-width: 200px;
+  }
+  .customCheckbox {
+    margin-right: 30px;
+  }
+  .customCheckbox::before {
+    margin-left: 0px;
+  }
+}

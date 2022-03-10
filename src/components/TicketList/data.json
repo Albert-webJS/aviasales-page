@@ -1,0 +1,353 @@
+[
+    {
+      "id": 1,
+      "price": "14 320",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "price": "12 320",
+      "company": "xiamenair",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "price": "10 320",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "price": "9 320",
+      "company": "xiamenair",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "price": "8 610",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "price": "9 110",
+      "company": "xiamenair",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "price": "7 340",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "price": "12 350",
+      "company": "xiamenair",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "price": "15 320",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "price": "16 320",
+      "company": "xiamenair",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "price": "9 240",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "price": "7 680",
+      "company": "xiamenair",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "price": "9 700",
+      "company": "airlines",
+      "segments": [
+        {
+          "origin": "MOW",
+          "destination": "HKT",
+          "date": "10:45 – 08:00",
+          "stops": [
+            "JNB",
+            "HKG"
+          ],
+          "duration": 1010
+        },
+        {
+          "origin": "MOW",
+          "destination": "CPB",
+          "date": "12:43 – 18:00",
+          "stops": [
+            "TSE",
+            "HKG"
+          ],
+          "duration": 8722
+        }
+      ]
+    }
+  ]

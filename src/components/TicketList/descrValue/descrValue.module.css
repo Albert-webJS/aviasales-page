@@ -1,0 +1,7 @@
+.primaryColor {
+  color: #a0b0b9;
+}
+.city:last-child {
+  width: 100%;
+  max-width: 140px;
+}
